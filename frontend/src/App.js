@@ -83,7 +83,7 @@ function App() {
                 key={i}
                 className="bg-gray-50 p-2 rounded-lg border border-gray-200 text-sm"
               >
-                <strong>Email:</strong> {u.email}
+                
               </li>
             ))}
           </ul>
